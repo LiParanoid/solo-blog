@@ -2,7 +2,7 @@
 LiParanoid 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">Double or Nothing</h4>
 <p align="center"><a title="LiParanoid 的个人博客" target="_blank" href="https://github.com/LiParanoid/solo-blog"><img src="https://img.shields.io/github/last-commit/LiParanoid/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/LiParanoid/solo-blog"><img src="https://img.shields.io/github/repo-size/LiParanoid/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,8 +10,8 @@ LiParanoid 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://b3log.liparanoid.site/my-github-repos)
-* [世界，你好！](http://b3log.liparanoid.site/hello-solo)
+* [我在 GitHub 上的开源项目](http://solo.liparanoid.site/my-github-repos)
+* [世界，你好！](http://solo.liparanoid.site/hello-solo)
 
 
 
