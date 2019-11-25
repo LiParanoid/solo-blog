@@ -10,7 +10,8 @@ LiParanoid 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://b3log.liparanoid.site//hello-solo)
+* [我在 GitHub 上的开源项目](http://b3log.liparanoid.site/my-github-repos)
+* [世界，你好！](http://b3log.liparanoid.site/hello-solo)
 
 
 
