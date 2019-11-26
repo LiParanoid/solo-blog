@@ -10,6 +10,8 @@ LiParanoid 的个人博客
 
 ### 最新
 
+* [hashSet存储不同值的原理](http://solo.liparanoid.site/articles/2019/11/26/1574750777504.html)
+* [Java hashCode() 和 equals()的若干问题解答](http://solo.liparanoid.site/articles/2019/11/26/1574738898952.html)
 * [我在 GitHub 上的开源项目](http://solo.liparanoid.site/my-github-repos)
 * [世界，你好！](http://solo.liparanoid.site/hello-solo)
 
