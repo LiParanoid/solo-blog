@@ -10,6 +10,7 @@ LiParanoid
 
 ### 最新
 
+* [spring注解学习（二）组件的扫描以及扫描自定义规则](http://solo.liparanoid.site/articles/2019/12/01/1575211974965.html)
 * [spring注解学习（一）项目初始化以及自定义bean的注册](http://solo.liparanoid.site/articles/2019/12/01/1575133409963.html)
 * [hashSet存储不同值的原理](http://solo.liparanoid.site/articles/2019/11/26/1574750777504.html)
 * [Java hashCode() 和 equals()的若干问题解答](http://solo.liparanoid.site/articles/2019/11/26/1574738898952.html)
